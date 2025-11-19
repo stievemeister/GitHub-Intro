@@ -29,10 +29,13 @@
 $$a^2 + b^2 = c^2$$
 
 , - this is Pythagorean Theorem;
+
 $$y = \alpha x^2+\beta x+\gamma$$
 
 ,- this is parabolic function formula
+
 $$ D = b^2-4ac; x_1=\frac{-b+\sqrt{D}}{2a}; x_2=\frac{-b-\sqrt{D}}{2a}$$
+
 ,- this is how to solve quadratic equation
 
 # My coding skills
@@ -51,6 +54,7 @@ This is the image I personally like. It is representing snowy mountains.
 
 
 ![Snowy-Mountains](images/image.jpg) 
+
 
 
 
