@@ -2,7 +2,7 @@
 
 ## Quick references
 
-### [Author](#author) | [Description 🖋️](#description-🖋️) | [My favourite university subjects 📋](#my-favourite-university-subjects-📋) | [Online VS Offline Studiyng](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like) |
+### [Author](#author) | [Description](#description) | [My favourite university subjects 📋](#my-favourite-university-subjects-📋) | [Online VS Offline Studiyng](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like) |
 
 # Author 🎅
 ### **Name:** *Artem Matantsev*
@@ -54,6 +54,7 @@ This is the image I personally like. It is representing snowy mountains.
 
 
 ![Snowy-Mountains](images/image.jpg) 
+
 
 
 
