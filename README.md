@@ -12,7 +12,7 @@
 # Description 
 ### Hi! My name is Artem. This is my first GitHub repo. Here I practice my skills at writing markdown texts, LaTeX formulas, c++ code and other things
 
-# My favourite university subjects 📋
+# My favourite university subjects
 
 ### 1. Mathematical Analysis
 ### 2. Analityc Geometry
@@ -54,6 +54,7 @@ This is the image I personally like. It is representing snowy mountains.
 
 
 ![Snowy-Mountains](images/image.jpg) 
+
 
 
 
