@@ -9,7 +9,7 @@
 ### **Group:** *KN-125dsg*
 ### **Date:** *19.11.2025* 
 
-# Description 🖋️
+# Description 
 ### Hi! My name is Artem. This is my first GitHub repo. Here I practice my skills at writing markdown texts, LaTeX formulas, c++ code and other things
 
 # My favourite university subjects 📋
@@ -54,6 +54,7 @@ This is the image I personally like. It is representing snowy mountains.
 
 
 ![Snowy-Mountains](images/image.jpg) 
+
 
 
 
