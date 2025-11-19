@@ -4,7 +4,7 @@
 
 ### [Author](#author) | [Description](#description) | [My favourite university subjects](#my-favourite-university-subjects) | [Online VS Offline Studiyng](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like) |
 
-# Author 🎅
+# Author 
 ### **Name:** *Artem Matantsev*
 ### **Group:** *KN-125dsg*
 ### **Date:** *19.11.2025* 
@@ -54,6 +54,7 @@ This is the image I personally like. It is representing snowy mountains.
 
 
 ![Snowy-Mountains](images/image.jpg) 
+
 
 
 
