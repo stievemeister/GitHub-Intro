@@ -5,9 +5,9 @@
 [Author](#author) | [Description](#description) | [My favourite university subjects](#my-favourite-university-subjects) | [Online VS Offline Studiyng](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like) |
 
 ## Author 
-* Name: *Artem Matantsev*
-* Group: *KN-125dsg*
-* Date: *19.11.2025* 
+* **Name:** *Artem Matantsev*
+* **Group:** *KN-125dsg*
+* **Date:** *19.11.2025* 
 
 ## Description 
 Hi! My name is Artem. This is my first GitHub repo. Here I practice my skills at writing markdown texts, LaTeX formulas, c++ code and other things
@@ -54,6 +54,7 @@ This is the image I personally like. It is representing snowy mountains.
 
 
 ![Snowy-Mountains](images/image.jpg) 
+
 
 
 
